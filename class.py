@@ -1,2 +1,2 @@
 print("Hello World")
-print("Vidya Vardhaka")
+print("Vidya Vardhaka College")
